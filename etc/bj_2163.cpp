@@ -9,6 +9,5 @@ public:
         cin >> N >> M;
         cnt = (N - 1) + N * (M-1);
         cout << cnt;
-
     }
 };
