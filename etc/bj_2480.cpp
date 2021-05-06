@@ -16,6 +16,6 @@ public:
         else if(a==c)
             cout << 1000+a*100;
         else
-            cout << max(a,b,c)*100
+            cout << max(a,b,c)*100;
     }
 };
