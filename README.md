@@ -1,11 +1,7 @@
-Updated on 22.11.22  
+Updated on 23.03.18
 
 
-# **BOJ**  
-- [x] Class 1  
-- [x] Class 2  
-- [x] Class 3  
-- [ ] Class 4 - (TODO)
+# Problem solving  
 
-Total 465 problem  
-[solved.ac](https://solved.ac/profile/dh031200)
+### **BOJ**  
+- https://www.acmicpc.net/
